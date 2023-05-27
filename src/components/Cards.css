@@ -1,0 +1,49 @@
+.Card{
+    width: 100%;
+    margin: 50px auto;
+}
+
+.icon-img .icon-btn {
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+
+button{
+    padding: 0;
+    border: 0;
+    background-color: #fff;
+}
+
+input{
+    width: 85%;
+    margin: auto;
+}
+
+.Card-input{
+    border: 0;
+    margin-right: 15px;
+}
+
+.post_header{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.post_headerAuthor{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-weight: bolder;
+}
+
+.btn:hover{
+    color: blue;
+    font-weight: 500;
+}
+
+.All-cards{
+    margin-bottom: 50px;
+}

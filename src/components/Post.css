@@ -1,0 +1,25 @@
+.btn-back{
+    position: absolute;
+    margin-top: 45%;
+    margin-left: 90%;
+}
+.chose-btn{
+    border: 1px solid black;
+    margin-right: 20px;
+    color: blue;
+}
+
+
+.Absalute{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    width: 300px;
+}
+
+.Absalute input{
+    width: 150px;
+}
+

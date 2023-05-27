@@ -1,0 +1,28 @@
+.follow{
+    width: 700px;
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 50%;
+    transform: translate(-50%);
+}
+
+main{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.main2{
+    width: 183px;
+    margin-top: 35px;
+    margin-left: 50%;
+    transform: translate(-50%);
+    text-align: center;
+    justify-content: center;
+}
+.btn1{
+    position: absolute;
+    margin:  27% 0 0 90%;
+}
+

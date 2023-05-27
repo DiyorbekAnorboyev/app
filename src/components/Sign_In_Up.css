@@ -1,0 +1,22 @@
+.App{
+    text-align: center;
+    margin-top: 8%;
+}
+
+.Inputs{
+    background-color: black;
+}
+
+.Min-input{
+    height: 45px;
+    font-size: 18px;
+    width: 35%;
+    display: block;
+    margin-top: 15px;
+}
+
+.Button-submit{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
